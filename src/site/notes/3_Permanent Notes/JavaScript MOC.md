@@ -5,10 +5,11 @@
 #code/javascript 
 
 # JavaScript MOC
+- [[Templates/Coding Problem\|Coding Problem]]
 - [[3_Permanent Notes/for...in\|for...in]]
 - [[3_Permanent Notes/What Object methods are there?\|What Object methods are there?]]
-- [[3_Permanent Notes/Valid Parentheses DSA\|Valid Parentheses DSA]]
 - [[3_Permanent Notes/Valid Anagram DSA\|Valid Anagram DSA]]
+- [[3_Permanent Notes/Valid Parentheses DSA\|Valid Parentheses DSA]]
 - [[3_Permanent Notes/Two Sum II, Array is Sorted DSA\|Two Sum II, Array is Sorted DSA]]
 - [[3_Permanent Notes/Top K Frequent Elements DSA\|Top K Frequent Elements DSA]]
 - [[3_Permanent Notes/Three Sum DSA\|Three Sum DSA]]
@@ -25,8 +26,7 @@
 - [[3_Permanent Notes/JavaScript MOC\|JavaScript MOC]]
 - [[3_Permanent Notes/How can we loop over the entries in a map and extract key and value of each entry?\|How can we loop over the entries in a map and extract key and value of each entry?]]
 - [[3_Permanent Notes/Group Anagrams DSA\|Group Anagrams DSA]]
-- [[3_Permanent Notes/Contains Duplicate DSA\|Contains Duplicate DSA]]
 - [[3_Permanent Notes/Difference between Map and Objects\|Difference between Map and Objects]]
-- [[Templates/Coding Problem\|Coding Problem]]
+- [[3_Permanent Notes/Contains Duplicate DSA\|Contains Duplicate DSA]]
 
 { .block-language-dataview}
