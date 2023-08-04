@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/welcome/","tags":["gardenEntry"],"created":"2023-08-02 14:54","updated":"2023-08-04 16:03"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/welcome/","tags":["gardenEntry"],"created":"2023-08-02 14:54","updated":"2023-08-04 16:27"}
 ---
 
 # Welcome
@@ -30,6 +30,7 @@ I read through variety of resources and have developed a workflow that looks lik
 - Written in Markdown
 - Hosted on Netlify
 ## Launching points
+- [[1_Fleeting Notes/2023 Book List\|2023 Book List]]
 - [[3_Permanent Notes/Best Practices MOC\|Best Practices MOC]]
 - [[3_Permanent Notes/JavaScript MOC\|JavaScript MOC]]
 - [[3_Permanent Notes/Go MOC\|Go MOC]]
