@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/welcome/","tags":["gardenEntry"],"created":"2023-06-16 07:38","updated":"2023-08-04 07:28"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/welcome/","tags":["gardenEntry"],"created":"2023-08-02 14:54","updated":"2023-08-04 16:03"}
 ---
 
 # Welcome
@@ -13,7 +13,7 @@
 ## Who am I?
 - Software Developer working out of Chicago, IL
 - Constantly pursuing self-improvement
-- Love good pizza and tinkering with recipes
+- Tinkering with a bunch of different pizza recipes / tools
 - Typing on a 34-key split Keyboard by [BastardKB](https://bastardkb.com/)
 ## What is Knowledge Management?
 Knowledge Management is curiosity and curiosity is the tool that brings me closer towards the goal of becoming a better Software Engineer. Due to an endless stream of information, I rely on a bulletproof toolset to decipher to *really* benefit from it.
@@ -28,7 +28,7 @@ I read through variety of resources and have developed a workflow that looks lik
 - Obsidian
 - [Obsidian Digital Garden Plugin](https://dg-docs.ole.dev/)
 - Written in Markdown
-- Hosted on Vercel and GitHub
+- Hosted on Netlify
 ## Launching points
 - [[3_Permanent Notes/Best Practices MOC\|Best Practices MOC]]
 - [[3_Permanent Notes/JavaScript MOC\|JavaScript MOC]]
