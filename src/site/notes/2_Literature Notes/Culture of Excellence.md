@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature-notes/culture-of-excellence/","created":"2023-08-04 15:27","updated":"2023-08-04 16:28"}
+{"dg-publish":true,"permalink":"/2-literature-notes/culture-of-excellence/","created":"2023-08-04 15:27","updated":"2023-08-04 16:30"}
 ---
 
-#type/literature
+#type/literature #source/blog
 
 ---
 
@@ -39,6 +39,11 @@ What are the two metrics when it comes to that?
 
 ---
 ## Questions
+- What do we mean by the word empower in this context? 
+- Why should we get problems to solve and not features to build?
+- How can empowerment lead to more accountability and success?
+- What is the analogy of seed, feed and weed in this process?
+- What is the role of trust, failure and shared responsibility when it comes to Team Dynamics?
 ## Terms
 - Vanity metrics
 - Actionable metrics
