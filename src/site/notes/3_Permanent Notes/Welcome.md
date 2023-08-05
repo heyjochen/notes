@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/welcome/","tags":["gardenEntry"],"created":"2023-08-02 14:54","updated":"2023-08-04 16:27"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/welcome/","tags":["gardenEntry"],"created":"2023-08-02 14:54","updated":"2023-08-05 07:22"}
 ---
 
 # Welcome
@@ -13,8 +13,7 @@
 ## Who am I?
 - Software Developer working out of Chicago, IL
 - Constantly pursuing self-improvement
-- Tinkering with a bunch of different pizza recipes / tools
-- Typing on a 34-key split Keyboard by [BastardKB](https://bastardkb.com/)
+- Interested in [keyboards](https://bastardkb.com/), [pizza](https://www.pizzamaking.com/forum/), and [large-format photography](https://www.largeformatphotography.info/forum/)
 ## What is Knowledge Management?
 Knowledge Management is curiosity and curiosity is the tool that brings me closer towards the goal of becoming a better Software Engineer. Due to an endless stream of information, I rely on a bulletproof toolset to decipher to *really* benefit from it.
 ## What tools do I use?
@@ -22,8 +21,10 @@ I read through variety of resources and have developed a workflow that looks lik
 
 - Gather all posts via [NetNewsWire](https://netnewswire.com/)
 - Send selected favorites to [Pocket](https://getpocket.com/en/) to read them on my [Kobo](https://www.kobo.com/)
-- Take notes via [Obsidian]() and the [Zettelkasten](https://zettelkasten.de/introduction/) workflow developed by the German sociologist [Niklas Luhmann](https://niklas-luhmann-archiv.de/nachlass/zettelkasten)
+- Take notes via [Obsidian]() and the [Zettelkasten](https://zettelkasten.de/introduction/) workflow developed by the German sociologist [Niklas Luhmann](https://niklas-luhmann-archiv.de/nachlass/zettelkasten). I make use of templates, tags and the dataview plugin to organize my notes into "buckets"
 - Refine, revisit, improve, publish
+## What is this ugly color-scheme?
+It's called [Gruvbox Material](https://github.com/sainnhe/gruvbox-material)and is a modified version with an adjusted contrast in order to protect your eyes during long days on your machine. I use it both in Obsidian as well in my dev-environment.
 ## How did I create this?
 - Obsidian
 - [Obsidian Digital Garden Plugin](https://dg-docs.ole.dev/)
