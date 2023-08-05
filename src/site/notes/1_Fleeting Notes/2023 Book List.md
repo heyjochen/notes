@@ -6,8 +6,7 @@
 
 ---
 
- How to decide - Annie Duke (ordered)
- A Philosophy of Software Design - John Ousterhout (reading)
+ How to decide - Annie Duke (ordered) A Philosophy of Software Design - John Ousterhout (reading)
  The Phoenix Project - Kim, Behr, Spafford (reading)
  
 ---
