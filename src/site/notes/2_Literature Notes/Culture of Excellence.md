@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature-notes/culture-of-excellence/","created":"2023-08-04 15:27","updated":"2023-08-04 16:30"}
+{"dg-publish":true,"permalink":"/2-literature-notes/culture-of-excellence/","created":"2023-08-04 15:27","updated":"2023-08-05 07:05"}
 ---
 
 #type/literature #source/blog
@@ -31,11 +31,15 @@ What is the analogy of seed, feed and weed in this process?
 Team Dynamics matter more than a couple 10x engineers.
 
 What is the role of trust, failure and shared responsibility when it comes to Team Dynamics?
-
+	**Trust:** Means that the team can rely on each other and to bring all your thoughts and ideas to the table without fear
+	**Failure:** Accept failure as a challenge to overcome on the way to success
+	**Shared Responsibility:** While every team member has their own goals, team goals are priority #1
 ### Velocity, Experimentation, and Learning
 What are the two metrics when it comes to that?
-
+	1. How quickly can you deliver? -> The faster you are at delivering any, the more you can learn from
+	2. How accurate are you in estimating the value of features delivered?
 ### Clear Goals and Alignment
+*“If you don’t know where you are going, you likely won’t get there.”*
 
 ---
 ## Questions
