@@ -5,17 +5,18 @@
 #code/javascript 
 
 # JavaScript MOC
+- [[Templates/Coding Data Structure\|Coding Data Structure]]
 - [[Templates/Coding Problem\|Coding Problem]]
-- [[3_Permanent Notes/for...in\|for...in]]
-- [[3_Permanent Notes/Valid Parentheses DSA\|Valid Parentheses DSA]]
-- [[3_Permanent Notes/Valid Anagram DSA\|Valid Anagram DSA]]
-- [[3_Permanent Notes/What Object methods are there?\|What Object methods are there?]]
-- [[3_Permanent Notes/Two Sum II, Array is Sorted DSA\|Two Sum II, Array is Sorted DSA]]
 - [[3_Permanent Notes/Three Sum DSA\|Three Sum DSA]]
+- [[3_Permanent Notes/for...in\|for...in]]
+- [[3_Permanent Notes/What Object methods are there?\|What Object methods are there?]]
+- [[3_Permanent Notes/Valid Anagram DSA\|Valid Anagram DSA]]
+- [[3_Permanent Notes/Valid Parentheses DSA\|Valid Parentheses DSA]]
+- [[3_Permanent Notes/Two Sum II, Array is Sorted DSA\|Two Sum II, Array is Sorted DSA]]
 - [[3_Permanent Notes/Top K Frequent Elements DSA\|Top K Frequent Elements DSA]]
+- [[3_Permanent Notes/Set in Javascript\|Set in Javascript]]
 - [[3_Permanent Notes/Singleton Pattern\|Singleton Pattern]]
 - [[3_Permanent Notes/Set to keep track of values\|Set to keep track of values]]
-- [[3_Permanent Notes/Set in Javascript\|Set in Javascript]]
 - [[3_Permanent Notes/Product of Array Except Self DSA\|Product of Array Except Self DSA]]
 - [[3_Permanent Notes/Observer Pattern\|Observer Pattern]]
 - [[3_Permanent Notes/Object.values()\|Object.values()]]
@@ -28,5 +29,8 @@
 - [[3_Permanent Notes/Group Anagrams DSA\|Group Anagrams DSA]]
 - [[3_Permanent Notes/Difference between Map and Objects\|Difference between Map and Objects]]
 - [[3_Permanent Notes/Contains Duplicate DSA\|Contains Duplicate DSA]]
+- [[1_Fleeting Notes/Array\|Array]]
+- [[Templates/Coding Technique\|Coding Technique]]
+- [[1_Fleeting Notes/Sliding Window\|Sliding Window]]
 
 { .block-language-dataview}
