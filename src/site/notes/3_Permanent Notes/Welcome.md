@@ -21,7 +21,7 @@ I read through variety of resources and have developed a workflow that looks lik
 
 - Gather all posts via [NetNewsWire](https://netnewswire.com/)
 - Send selected favorites to [Pocket](https://getpocket.com/en/) to read them on my [Kobo](https://www.kobo.com/)
-- Take notes via [Obsidian]() and the [Zettelkasten](https://zettelkasten.de/introduction/) workflow developed by the German sociologist [Niklas Luhmann](https://niklas-luhmann-archiv.de/nachlass/zettelkasten). I make use of templates, tags and the dataview plugin to organize my notes into "buckets"
+- Take notes via [Obsidian]() and the [Zettelkasten](https://zettelkasten.de/introduction/) workflow developed by the German sociologist [Niklas Luhmann](https://niklas-luhmann-archiv.de/nachlass/zettelkasten). I use of templates, tags and the dataview plugin to organize my notes into "buckets"
 - Refine, revisit, improve, publish
 ## What is this ugly color-scheme?
 It's called [Gruvbox Material](https://github.com/sainnhe/gruvbox-material)and is a modified version with an adjusted contrast in order to protect your eyes during long days on your machine. I use it both in Obsidian as well in my dev-environment.
