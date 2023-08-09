@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/difference-between-map-and-objects/","created":"2023-08-01 08:02","updated":"2023-08-03 07:48"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/difference-between-map-and-objects/","created":"2023-07-20T07:10:54.968-05:00","updated":"2023-08-03T08:09:25.475-05:00"}
 ---
 
 #type/permanent #code/javascript 
