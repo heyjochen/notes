@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/set-to-keep-track-of-values/"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/set-to-keep-track-of-values/","created":"2023-02-19 13:07","updated":"2023-08-02 14:53"}
 ---
 
 #code/question #code/javascript
