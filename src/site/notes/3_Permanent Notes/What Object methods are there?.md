@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/what-object-methods-are-there/","created":"2023-02-14 18:57","updated":"2023-08-03 09:58"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/what-object-methods-are-there/"}
 ---
 
 #code/method #code/javascript
