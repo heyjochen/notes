@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-the-relationship-between-packages-and-modules-in-go/","created":"2023-07-27 12:51","updated":"2023-08-04 07:35"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-the-relationship-between-packages-and-modules-in-go/","created":"2023-08-04T07:15:37.177-05:00","updated":"2023-08-04T07:35:18.621-05:00"}
 ---
 
 #type/permanent #type/go
