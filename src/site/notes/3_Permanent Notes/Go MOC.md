@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/go-moc/","created":"2023-07-28 06:59","updated":"2023-08-03 16:46"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/go-moc/"}
 ---
 
 
