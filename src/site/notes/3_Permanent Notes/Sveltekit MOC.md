@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/sveltekit-moc/"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/sveltekit-moc/","created":"2023-06-15 21:38","updated":"2023-08-02 14:53"}
 ---
 
 #code/sveltekit 
