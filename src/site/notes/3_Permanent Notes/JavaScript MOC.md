@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/java-script-moc/"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/java-script-moc/","created":"2023-06-16 07:38","updated":"2023-08-02 14:54"}
 ---
 
 #code/javascript 
