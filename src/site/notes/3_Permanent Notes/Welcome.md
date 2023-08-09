@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/welcome/","tags":["gardenEntry"],"created":"2023-08-02 14:54","updated":"2023-08-05 07:22"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/welcome/","tags":["gardenEntry"],"created":"2023-08-02 14:54","updated":"2023-08-09 08:21"}
 ---
 
 # Welcome
@@ -31,8 +31,8 @@ It's called [Gruvbox Material](https://github.com/sainnhe/gruvbox-material)and i
 - Written in Markdown
 - Hosted on Netlify
 ## Launching points
-- [[1_Fleeting Notes/2023 Book List\|2023 Book List]]
 - [[3_Permanent Notes/Best Practices MOC\|Best Practices MOC]]
+- [[1_Fleeting Notes/2023 Book List\|2023 Book List]]
 - [[3_Permanent Notes/JavaScript MOC\|JavaScript MOC]]
 - [[3_Permanent Notes/Go MOC\|Go MOC]]
 - [[3_Permanent Notes/Sveltekit MOC\|Sveltekit MOC]]
