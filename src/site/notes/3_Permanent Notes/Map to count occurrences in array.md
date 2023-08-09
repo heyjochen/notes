@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/map-to-count-occurrences-in-array/","created":"2023-02-17 19:03","updated":"2023-08-03 16:51"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/map-to-count-occurrences-in-array/"}
 ---
 
 #code/question #code/javascript
