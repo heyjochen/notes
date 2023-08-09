@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-an-exported-name-in-go/","created":"2023-07-27 12:51","updated":"2023-08-04 07:45"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-an-exported-name-in-go/","created":"2023-08-04T07:34:38.880-05:00","updated":"2023-08-04T07:45:55.247-05:00"}
 ---
 
 #type/permanent #code/go 
