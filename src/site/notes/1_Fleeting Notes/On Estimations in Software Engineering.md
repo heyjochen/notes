@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-fleeting-notes/on-estimations-in-software-engineering/","created":"2023-07-28 06:45","updated":"2023-08-03 09:50"}
+{"dg-publish":true,"permalink":"/1-fleeting-notes/on-estimations-in-software-engineering/"}
 ---
 
 #type/permanent #code/best_practices 
