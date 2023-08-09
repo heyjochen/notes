@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature-notes/culture-of-excellence/","created":"2023-08-04 15:27","updated":"2023-08-05 07:05"}
+{"dg-publish":true,"permalink":"/2-literature-notes/culture-of-excellence/","created":"2023-08-04T15:27:13.868-05:00","updated":"2023-08-05T07:05:53.982-05:00"}
 ---
 
 #type/literature #source/blog
