@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/on-readability-in-software-engineering/","created":"2023-07-28 07:53","updated":"2023-08-03 08:07"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/on-readability-in-software-engineering/","created":"2023-07-28T07:52:08.853-05:00","updated":"2023-08-03T08:07:58.825-05:00"}
 ---
 
 #type/permanent #code/best_practices 
