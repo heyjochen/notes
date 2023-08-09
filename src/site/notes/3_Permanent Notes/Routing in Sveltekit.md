@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/routing-in-sveltekit/","created":"2023-05-24 20:31","updated":"2023-08-02 14:49"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/routing-in-sveltekit/","created":"2023-07-24T15:04:05.418-05:00","updated":"2023-08-02T14:49:19.064-05:00"}
 ---
 
 #code/sveltekit
