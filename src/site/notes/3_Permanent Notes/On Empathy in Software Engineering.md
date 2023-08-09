@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/on-empathy-in-software-engineering/","created":"2023-07-28 07:53","updated":"2023-08-03 10:40"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/on-empathy-in-software-engineering/"}
 ---
 
 #type/permanent #code/best_practices 
