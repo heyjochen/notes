@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/rendering-in-sveltekit/","created":"2023-05-25 21:31","updated":"2023-08-02 14:49"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/rendering-in-sveltekit/","created":"2023-07-24T15:29:22.353-05:00","updated":"2023-08-02T14:49:15.142-05:00"}
 ---
 
 #code/sveltekit
