@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/best-practices-moc/","created":"2023-08-02 13:25","updated":"2023-08-03 09:57"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/best-practices-moc/"}
 ---
 
 #code/permanent
