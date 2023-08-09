@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/for-in/"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/for-in/","created":"2023-02-17 19:04","updated":"2023-08-02 14:52"}
 ---
 
 #code/method #code/javascript
