@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/route-parameters-in-sveltekit/","created":"2023-05-29 05:31","updated":"2023-08-02 14:49"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/route-parameters-in-sveltekit/"}
 ---
 
 #code/sveltekit
