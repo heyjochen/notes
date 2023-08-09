@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/how-do-props-work-in-sveltekit/","created":"2023-07-27 12:51","updated":"2023-08-03 09:52"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/how-do-props-work-in-sveltekit/","created":"2023-08-03T09:49:49.238-05:00","updated":"2023-08-03T09:53:37.320-05:00"}
 ---
 
 #type/permanent #code/sveltekit 
