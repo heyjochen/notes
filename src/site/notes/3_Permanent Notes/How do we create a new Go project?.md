@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/how-do-we-create-a-new-go-project/","created":"2023-07-27 12:53","updated":"2023-08-03 16:48"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/how-do-we-create-a-new-go-project/"}
 ---
 
 #type/permanent #code/go 
