@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/set-in-javascript/"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/set-in-javascript/","created":"2023-02-19 13:07","updated":"2023-08-02 14:53"}
 ---
 
 #type/permanent #code/javascript
