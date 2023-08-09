@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-fleeting-notes/destructuring/","created":"2023-04-30 12:27","updated":"2023-08-03 07:33"}
+{"dg-publish":true,"permalink":"/1-fleeting-notes/destructuring/"}
 ---
 
 #code/method 
