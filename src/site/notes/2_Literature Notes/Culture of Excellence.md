@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature-notes/culture-of-excellence/","created":"2023-08-04T15:27:13.868-05:00","updated":"2023-08-12T07:20:13.320-05:00"}
+{"dg-publish":true,"permalink":"/2-literature-notes/culture-of-excellence/","created":"2023-08-04T15:27:13.868-05:00","updated":"2023-08-12T07:20:43.202-05:00"}
 ---
 
 #type/literature #source/blog
@@ -33,7 +33,7 @@ Team Dynamics matter more than a couple 10x engineers.
 **What is the role of trust, failure and shared responsibility when it comes to Team Dynamics?**
 	**Trust:** Means that the team can rely on each other and to bring all your thoughts and ideas to the table without fear
 	**Failure:** Accept failure as a challenge to overcome on the way to success
-	**Shared Responsibility:** While every team member has their own goals, team goals are priority #1
+	**Shared Responsibility:** While every team member has their own goals, team goals are priority number one
 ### Velocity, Experimentation, and Learning
 **What are the two metrics when it comes to that?**
 	1. How quickly can you deliver? -> The faster you are at delivering any, the more you can learn from
