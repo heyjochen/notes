@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/welcome/","tags":["gardenEntry"],"created":"2023-08-02T14:54:18.987-05:00","updated":"2023-08-09T08:21:47.574-05:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/welcome/","tags":["gardenEntry"],"created":"2023-08-02T14:54:18.987-05:00","updated":"2023-08-12T07:15:05.392-05:00"}
 ---
 
 # Welcome
@@ -20,8 +20,9 @@ Knowledge Management is curiosity and curiosity is the tool that brings me close
 I read through variety of resources and have developed a workflow that looks like this (at least for Blogs):
 
 - Gather all posts via [NetNewsWire](https://netnewswire.com/)
-- Send selected favorites to [Pocket](https://getpocket.com/en/) to read them on my [Kobo](https://www.kobo.com/)
-- Take notes via [Obsidian]() and the [Zettelkasten](https://zettelkasten.de/introduction/) workflow developed by the German sociologist [Niklas Luhmann](https://niklas-luhmann-archiv.de/nachlass/zettelkasten). I use of templates, tags and the dataview plugin to organize my notes into "buckets"
+- Send selected posts to [Pocket](https://getpocket.com/en/) to read them on my [Kobo](https://www.kobo.com/)
+- Mark favorites in my Kobo to revisit later
+- Take notes on those favorites via [Obsidian]() and the [Zettelkasten](https://zettelkasten.de/introduction/) workflow developed by the German sociologist [Niklas Luhmann](https://niklas-luhmann-archiv.de/nachlass/zettelkasten). I use of templates, tags and the dataview plugin to organize my notes into "buckets"
 - Refine, revisit, improve, publish
 ## What is this ugly color-scheme?
 It's called [Gruvbox Material](https://github.com/sainnhe/gruvbox-material)and is a modified version with an adjusted contrast in order to protect your eyes during long days on your machine. I use it both in Obsidian as well in my dev-environment.
