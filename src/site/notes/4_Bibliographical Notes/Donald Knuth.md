@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-bibliographical-notes/donald-knuth/","created":"2023-07-21T06:11:47.859-05:00","updated":"2023-08-02T14:54:04.057-05:00"}
+{"dg-publish":true,"permalink":"/4-bibliographical-notes/donald-knuth/","created":"2023-07-21T06:11:47.859-05:00","updated":"2023-08-12T07:24:09.771-05:00"}
 ---
 
 #role/scientist
@@ -8,7 +8,7 @@
 
 ##  Bio
 
-> [!Bio short]
+> [!NOTE]
 > Computer Scientist and Mathematician, wrote the Art of Computer Programming. PhD in Math from Caltech.
 
 ## Books
