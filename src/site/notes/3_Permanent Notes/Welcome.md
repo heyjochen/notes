@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/welcome/","tags":["gardenEntry"],"created":"2023-08-02T14:54:18.987-05:00","updated":"2023-08-12T07:15:05.392-05:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/welcome/","tags":["gardenEntry"],"created":"2023-08-02T14:54:18.987-05:00","updated":"2023-08-12T07:18:19.840-05:00"}
 ---
 
 # Welcome
 
 > [!info] Info
-> I started my journey into Knowledge Management and note taking mid-2023, after realizing, that I needed a better way of keeping track of all the things learned and read about when it comes to Software Engineering.
+> I started my journey into Knowledge Management after realizing that I needed a better way of tracking all the things learned when it comes to Software Engineering.
 > 
 
 > [!warning]-
