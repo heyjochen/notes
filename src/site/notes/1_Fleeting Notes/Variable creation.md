@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-fleeting-notes/variable-creation/","created":"2023-07-26T06:52:38.000-05:00","updated":"2023-08-04T05:49:05.830-05:00"}
+{"dg-publish":true,"permalink":"/1-fleeting-notes/variable-creation/","created":"2023-07-26T13:52:38.000+02:00","updated":"2023-08-04T12:49:05.830+02:00"}
 ---
 
 
