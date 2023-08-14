@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-bibliographical-notes/donald-knuth/","created":"2023-07-21T06:11:47.859-05:00","updated":"2023-08-12T07:24:09.771-05:00"}
+{"dg-publish":true,"permalink":"/4-bibliographical-notes/donald-knuth/","created":"2023-07-21T13:11:47.859+02:00","updated":"2023-08-12T14:24:09.771+02:00"}
 ---
 
 #role/scientist
