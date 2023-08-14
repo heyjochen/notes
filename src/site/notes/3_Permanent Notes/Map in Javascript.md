@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/map-in-javascript/","created":"2023-07-17T16:43:45.800-05:00","updated":"2023-08-02T14:52:25.658-05:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/map-in-javascript/","created":"2023-07-17T23:43:45.800+02:00","updated":"2023-08-02T21:52:25.658+02:00"}
 ---
 
 #type/permanent #code/javascript
