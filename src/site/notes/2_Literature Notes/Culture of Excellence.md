@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature-notes/culture-of-excellence/","created":"2023-08-04T15:27:13.868-05:00","updated":"2023-08-12T07:20:43.202-05:00"}
+{"dg-publish":true,"permalink":"/2-literature-notes/culture-of-excellence/","created":"2023-08-04T22:27:13.868+02:00","updated":"2023-08-13T11:14:26.982+02:00"}
 ---
 
 #type/literature #source/blog
@@ -13,7 +13,7 @@
 A Culture of Excellence involves a lot of factors. Of great importance is your team. The individual becomes less of importance then the *bond* between them, their *trust* and how they approach a *shared responsibility*. This goes along with a healthy team environment, where the individuals don't point fingers at each other in case of *failure* but instead step-up and find a solution together.
 ### Empowering Teams
 **What do we mean by the word empower in this context?** 
-	The author mentions how important it is to trust your team and let them play a bigger role when it comes to the features that need to be built. They shouldn't just be code monkeys that take order. Instead the should see themselves as problem solvers and take accountability, as well as bring in their own ideas. This is the distinction he mentions between *task driven* vs *empowered teams*.
+	The author mentions how important it is to trust your team and let them play a bigger role when it comes to the features that need to be built. They shouldn't just be code monkeys that take orders. Instead the should see themselves as problem solvers and take accountability, as well as bring in their own ideas. This is the distinction he mentions between *task driven* vs *empowered teams*.
 
 **Why should we get problems to solve and not features to build?**
 	The individual teams have a better view of what is possible and can come up with better solutions to a customers need. Product / Business people might not know if some things are realistic in a given time frame.
