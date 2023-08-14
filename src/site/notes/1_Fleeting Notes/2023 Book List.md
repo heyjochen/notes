@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-fleeting-notes/2023-book-list/","created":"2023-08-03T20:54:51.000-05:00","updated":"2023-08-12T07:13:12.486-05:00"}
+{"dg-publish":true,"permalink":"/1-fleeting-notes/2023-book-list/","created":"2023-08-04T03:54:51.000+02:00","updated":"2023-08-12T14:13:12.486+02:00"}
 ---
 
 #type/fleeting
