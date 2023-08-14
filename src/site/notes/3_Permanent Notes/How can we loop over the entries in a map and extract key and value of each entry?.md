@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/how-can-we-loop-over-the-entries-in-a-map-and-extract-key-and-value-of-each-entry/","created":"2023-07-17T20:46:30.105-05:00","updated":"2023-08-03T16:50:22.358-05:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/how-can-we-loop-over-the-entries-in-a-map-and-extract-key-and-value-of-each-entry/","created":"2023-07-18T03:46:30.105+02:00","updated":"2023-08-03T23:50:22.358+02:00"}
 ---
 
 #code/question #code/javascript
