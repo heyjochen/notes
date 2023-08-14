@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-the-purpose-of-the-package-main-in-go/","created":"2023-08-03T07:05:28.593-05:00","updated":"2023-08-04T07:55:19.853-05:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-the-purpose-of-the-package-main-in-go/","created":"2023-08-03T14:05:28.593+02:00","updated":"2023-08-04T14:55:19.853+02:00"}
 ---
 
 #type/permanent #code/go
