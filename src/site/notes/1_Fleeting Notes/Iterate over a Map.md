@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-fleeting-notes/iterate-over-a-map/","created":"2023-07-20T07:21:03.053-05:00","updated":"2023-08-03T07:48:19.286-05:00"}
+{"dg-publish":true,"permalink":"/1-fleeting-notes/iterate-over-a-map/","created":"2023-07-20T14:21:03.053+02:00","updated":"2023-08-03T14:48:19.286+02:00"}
 ---
 
 
