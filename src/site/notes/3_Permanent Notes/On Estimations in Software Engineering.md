@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/on-estimations-in-software-engineering/","created":"2023-07-20T19:42:00.552-05:00","updated":"2023-08-12T07:12:36.017-05:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/on-estimations-in-software-engineering/","created":"2023-07-21T02:42:00.552+02:00","updated":"2023-08-12T14:12:36.017+02:00"}
 ---
 
 #type/permanent #code/best_practices 
