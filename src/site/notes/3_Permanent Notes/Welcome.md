@@ -33,7 +33,7 @@ It's called [Gruvbox Material](https://github.com/sainnhe/gruvbox-material)and i
 - Hosted on Netlify
 ## Launching points
 - [[3_Permanent Notes/Best Practices MOC\|Best Practices MOC]]
-- [[1_Fleeting Notes/2023 Book List\|2023 Book List]]
+- [[3_Permanent Notes/2023 Book List\|2023 Book List]]
 - [[3_Permanent Notes/JavaScript MOC\|JavaScript MOC]]
 - [[3_Permanent Notes/Go MOC\|Go MOC]]
 - [[3_Permanent Notes/Sveltekit MOC\|Sveltekit MOC]]
