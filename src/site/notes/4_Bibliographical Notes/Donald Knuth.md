@@ -1,19 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/4-bibliographical-notes/donald-knuth/","created":"2023-07-21T13:11:47.859+02:00","updated":"2023-08-12T14:24:09.771+02:00"}
+{"dg-publish":true,"permalink":"/4-bibliographical-notes/donald-knuth/","created":"2023-07-21T13:11:47.859+02:00","updated":"2023-08-16T21:53:47.424+02:00"}
 ---
 
 #role/scientist
-
 # Donald Knuth
 
 ##  Bio
-
 > [!NOTE]
 > Computer Scientist and Mathematician, wrote the Art of Computer Programming. PhD in Math from Caltech.
-
 ## Books
 - The Art of Computer Programming (not read) 
-
 ## Notes
 Solving unknown problems means you are an explorer entering an unknown world. First your steps are small but once you immerse yourself in that problem you start to make bigger steps. You begin to see the forest and the trees.
 
