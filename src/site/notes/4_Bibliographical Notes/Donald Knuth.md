@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-bibliographical-notes/donald-knuth/","created":"2023-07-21T13:11:47.859+02:00","updated":"2023-08-16T21:53:47.424+02:00"}
+{"dg-publish":true,"permalink":"/4-bibliographical-notes/donald-knuth/","created":"2023-07-21T13:11:47.859+02:00","updated":"2023-08-16T21:54:14.657+02:00"}
 ---
 
 #role/scientist
@@ -12,17 +12,14 @@
 - The Art of Computer Programming (not read) 
 ## Notes
 Solving unknown problems means you are an explorer entering an unknown world. First your steps are small but once you immerse yourself in that problem you start to make bigger steps. You begin to see the forest and the trees.
-
 ### How he solves a problem
 Knuth writes down ideas like mad, for the first hour he is trying all kind of stuff and is looking for **patterns**. The best test to see if he is ready to solve it is when he can think about it sensibly while swimming. 
 
 Get into a mental state with a problem where you are more familiar with it than anyone else in the world, *become an expert.*
 
 Think about other problems that can be solved with the same methods.
-
 ### On scheduling daily activities
 Get the worst task out of the way. Get through the tedium, go trough things that others find unpleasant.
-
 ## Quotes
 
 ---
