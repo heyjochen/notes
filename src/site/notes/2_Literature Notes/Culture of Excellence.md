@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature-notes/culture-of-excellence/","created":"2023-08-04T22:27:13.868+02:00","updated":"2023-08-13T11:14:26.982+02:00"}
+{"dg-publish":true,"permalink":"/2-literature-notes/culture-of-excellence/","created":"2023-08-04T22:27:13.868+02:00","updated":"2023-08-16T21:50:55.931+02:00"}
 ---
 
 #type/literature #source/blog
-
----
+# Culture of Excellence
 
 > [!NOTE] Info
 > This is a summary of the original blog post titled [Cultivating a Culture of Excellence](https://mikefisher.substack.com/p/cultivating-a-culture-of-excellence)by Mike Fisher.
