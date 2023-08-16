@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature-notes/how-to-become-a-better-software-engineer/","created":"2023-08-05T14:06:57.852+02:00","updated":"2023-08-12T14:21:53.900+02:00"}
+{"dg-publish":true,"permalink":"/2-literature-notes/how-to-become-a-better-software-engineer/","created":"2023-08-05T14:06:57.852+02:00","updated":"2023-08-16T21:48:20.830+02:00"}
 ---
 
 #type/literature #source/blog 
+# How to become a better Software Engineer
 
----
 > [!NOTE] Info
 > This is a summary of the original blog post titled [Ideas are cheap, code is not: How to become a better software engineer](https://andreschweighofer.com/career/ideas-are-cheap-code-is-not-how-to-become-a-better-software-engineer/)by Andre Schweighofer.
 ## What is the most important skill for software engineers according to the author?
