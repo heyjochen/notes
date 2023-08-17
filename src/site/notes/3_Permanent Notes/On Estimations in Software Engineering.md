@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/on-estimations-in-software-engineering/","created":"2023-07-21T02:42:00.552+02:00","updated":"2023-08-12T14:12:36.017+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/on-estimations-in-software-engineering/","created":"2023-07-21T02:42:00.552+02:00","updated":"2023-08-17T17:15:31.676+02:00"}
 ---
 
-#type/permanent #code/best_practices 
+#type/permanent #code/best_practices
+# On Estimations in Software Engineering
 
----
 ## Estimations are hard
 You will barely ever estimate a PBI in the right way and I am sure everyone ran into a situation where they either over- or underestimated the effort it takes to finish a task.
 If you overestimate, it takes you less time to finish the task. Similarly, if you underestimate, it takes you more time to finish the task.
