@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-an-abstraction/","created":"2023-07-27T19:56:33.213+02:00","updated":"2023-08-03T16:58:23.762+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-an-abstraction/","created":"2023-07-27T19:56:33.213+02:00","updated":"2023-08-17T17:16:15.149+02:00"}
 ---
 
 #type/permanent #code/best_practices 
 
----
+# What is an abstraction?
+
 > [!DEFINITION]
 > An Abstraction is the simplification of complex ideas to focus on the most critical aspects, thus to be able to understand patterns and principles more effectively.
 
