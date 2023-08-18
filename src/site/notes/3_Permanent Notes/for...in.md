@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/for-in/","created":"2023-07-21T13:56:21.837+02:00","updated":"2023-08-02T21:52:03.791+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/for-in/","created":"2023-07-21T13:56:21.837+02:00","updated":"2023-08-18T12:13:45.269+02:00"}
 ---
 
 #code/method #code/javascript
@@ -21,7 +21,7 @@ for (const property in object) {
 
 ---
 ## Description
-The for...in loop is a loop in Javascript that **iterates** over all *enumerable string properties* of an object.
+The for...in loop is a loop in JavaScript that **iterates** over all *enumerable string properties* of an object.
 
 ## Parameters
 variable, object, statement
@@ -31,7 +31,7 @@ for (variable in object)
 ```
 
 ## Gotcha
-Even though the `for...in` works to loop over an array we should use a traditional for-loop, a forEach() or `for...of`. As Arrays are just objects in Javascript it would also loop over properties inherited from the prototype chain. It is also less performant.
+Even though the `for...in` works to loop over an array we should use a traditional for-loop, a forEach() or `for...of`. As Arrays are just objects in JavaScript it would also loop over properties inherited from the prototype chain. It is also less performant.
 
 ---
 ## References
