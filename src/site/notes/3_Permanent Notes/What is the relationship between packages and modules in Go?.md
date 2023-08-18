@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-the-relationship-between-packages-and-modules-in-go/","created":"2023-08-04T14:15:37.177+02:00","updated":"2023-08-04T14:35:18.621+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-the-relationship-between-packages-and-modules-in-go/","created":"2023-08-04T14:15:37.177+02:00","updated":"2023-08-18T12:14:40.869+02:00"}
 ---
 
 #type/permanent #type/go
@@ -52,7 +52,7 @@ require (
 
 ---
 ## Questions
-- Is there something similar to this concept in Javascript?
+- Is there something similar to this concept in JavaScript?
 	- Yes: exported functions that modularize code, and package.json to track dependencies 
 ## Terms
 ## Related
