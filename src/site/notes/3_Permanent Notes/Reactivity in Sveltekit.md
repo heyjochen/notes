@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/reactivity-in-sveltekit/","created":"2023-07-23T22:30:13.958+02:00","updated":"2023-08-15T06:30:42.030+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/reactivity-in-sveltekit/","created":"2023-07-23T15:30:13.958-05:00","updated":"2023-08-14T23:30:42.030-05:00"}
 ---
 
 #code/sveltekit
