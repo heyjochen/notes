@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-a-naked-return-in-go/","created":"2023-08-04T14:54:42.225+02:00","updated":"2023-08-04T14:59:09.552+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-a-naked-return-in-go/","created":"2023-08-04T07:54:42.225-05:00","updated":"2023-08-04T07:59:09.552-05:00"}
 ---
 
 #type/permanent #code/go
