@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/2023-book-list/","created":"2023-08-04T03:54:51.000+02:00","updated":"2023-08-16T21:56:04.535+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/2023-book-list/","created":"2023-08-03T20:54:51.000-05:00","updated":"2023-08-16T14:56:04.535-05:00"}
 ---
 
 #type/permanent
