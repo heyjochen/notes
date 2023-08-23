@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature-notes/large-technical-projects/","created":"2023-07-14T18:02:08.402+02:00","updated":"2023-08-17T17:00:48.431+02:00"}
+{"dg-publish":true,"permalink":"/2-literature-notes/large-technical-projects/","created":"2023-07-14T11:02:08.402-05:00","updated":"2023-08-17T10:00:48.431-05:00"}
 ---
 
 #type/literature #source/blog #code/projects
