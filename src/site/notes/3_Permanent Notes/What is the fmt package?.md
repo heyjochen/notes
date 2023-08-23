@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-the-fmt-package/","created":"2023-08-03T14:22:15.901+02:00","updated":"2023-08-16T21:56:57.886+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-the-fmt-package/","created":"2023-08-03T07:22:15.901-05:00","updated":"2023-08-16T14:56:57.886-05:00"}
 ---
 
 #type/permanent 
