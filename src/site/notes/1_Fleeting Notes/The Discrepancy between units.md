@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-fleeting-notes/the-discrepancy-between-units/","created":"2023-08-05T12:29:29.969+02:00","updated":"2023-08-17T17:20:05.002+02:00"}
+{"dg-publish":true,"permalink":"/1-fleeting-notes/the-discrepancy-between-units/","created":"2023-08-05T05:29:29.969-05:00","updated":"2023-08-17T10:20:05.002-05:00"}
 ---
 
 #type/fleeting
