@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-an-abstraction/","created":"2023-07-27T19:56:33.213+02:00","updated":"2023-08-17T17:16:15.149+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-an-abstraction/","created":"2023-07-27T12:56:33.213-05:00","updated":"2023-08-17T10:16:15.149-05:00"}
 ---
 
 #type/permanent #code/best_practices 
