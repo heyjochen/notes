@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/on-abstractions-in-software-engineering/","created":"2023-07-27T19:48:32.107+02:00","updated":"2023-08-13T11:11:18.694+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/on-abstractions-in-software-engineering/","created":"2023-07-27T12:48:32.107-05:00","updated":"2023-08-13T04:11:18.694-05:00"}
 ---
 
 #type/permanent #code/best_practices
