@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/slot-in-sveltekit/","created":"2023-07-24T22:05:59.467+02:00","updated":"2023-08-02T21:53:05.485+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/slot-in-sveltekit/","created":"2023-07-24T15:05:59.467-05:00","updated":"2023-08-02T14:53:05.485-05:00"}
 ---
 
 #code/sveltekit
