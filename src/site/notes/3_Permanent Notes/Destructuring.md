@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/destructuring/","created":"2023-07-24T14:25:05.975+02:00","updated":"2023-08-15T06:30:01.550+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/destructuring/","created":"2023-07-24T07:25:05.975-05:00","updated":"2023-08-14T23:30:01.550-05:00"}
 ---
 
 #code/method #code/javascript #type/permanent 
