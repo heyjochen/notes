@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/set-to-keep-track-of-values/","created":"2023-07-19T13:15:40.097+02:00","updated":"2023-08-02T21:53:00.558+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/set-to-keep-track-of-values/","created":"2023-07-19T06:15:40.097-05:00","updated":"2023-08-02T14:53:00.558-05:00"}
 ---
 
 #code/question #code/javascript
