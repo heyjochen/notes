@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature-notes/how-to-become-a-better-software-engineer/","created":"2023-08-05T14:06:57.852+02:00","updated":"2023-08-16T21:48:20.830+02:00"}
+{"dg-publish":true,"permalink":"/2-literature-notes/how-to-become-a-better-software-engineer/","created":"2023-08-05T07:06:57.852-05:00","updated":"2023-08-16T14:48:20.830-05:00"}
 ---
 
 #type/literature #source/blog 
