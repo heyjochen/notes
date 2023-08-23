@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/singleton-pattern/","created":"2023-07-24T16:17:37.323+02:00","updated":"2023-08-03T23:49:26.151+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/singleton-pattern/","created":"2023-07-24T09:17:37.323-05:00","updated":"2023-08-03T16:49:26.151-05:00"}
 ---
 
 #code/method #code/javascript
