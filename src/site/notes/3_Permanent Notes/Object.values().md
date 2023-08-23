@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/object-values/","created":"2023-07-19T14:00:19.976+02:00","updated":"2023-08-02T21:53:11.259+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/object-values/","created":"2023-07-19T07:00:19.976-05:00","updated":"2023-08-02T14:53:11.259-05:00"}
 ---
 
 #code/method #code/javascript
