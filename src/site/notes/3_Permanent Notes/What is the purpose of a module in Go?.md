@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-the-purpose-of-a-module-in-go/","created":"2023-08-04T14:10:27.865+02:00","updated":"2023-08-04T14:28:17.622+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/what-is-the-purpose-of-a-module-in-go/","created":"2023-08-04T07:10:27.865-05:00","updated":"2023-08-04T07:28:17.622-05:00"}
 ---
 
 #type/permanent #code/go 
