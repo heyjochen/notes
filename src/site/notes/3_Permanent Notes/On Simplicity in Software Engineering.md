@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent-notes/on-simplicity-in-software-engineering/","created":"2023-07-28T14:51:31.744+02:00","updated":"2023-08-17T17:15:57.593+02:00"}
+{"dg-publish":true,"permalink":"/3-permanent-notes/on-simplicity-in-software-engineering/","created":"2023-07-28T07:51:31.744-05:00","updated":"2023-08-17T10:15:57.593-05:00"}
 ---
 
 #type/permanent #code/best_practices 
