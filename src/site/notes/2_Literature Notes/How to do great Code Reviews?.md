@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature-notes/how-to-do-great-code-reviews/","created":"2023-08-15T05:41:33.499+02:00","updated":"2023-08-16T21:47:51.030+02:00"}
+{"dg-publish":true,"permalink":"/2-literature-notes/how-to-do-great-code-reviews/","created":"2023-08-14T22:41:33.499-05:00","updated":"2023-08-16T14:47:51.030-05:00"}
 ---
 
 #type/literature #source/blog 
