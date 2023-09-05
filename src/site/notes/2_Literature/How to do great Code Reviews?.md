@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/how-to-do-great-code-reviews/","created":"2023-08-14T21:41:33.499-06:00","updated":"2023-08-16T13:47:51.030-06:00"}
+{"dg-publish":true,"permalink":"/2-literature/how-to-do-great-code-reviews/","tags":["type/literature","source/blog"],"created":"2023-08-14T21:41:33.499-06:00","updated":"2023-09-05T13:27:36.163-06:00"}
 ---
 
-#type/literature #source/blog 
 # How to do great Code Reviews?
 
 > [!NOTE] Info
