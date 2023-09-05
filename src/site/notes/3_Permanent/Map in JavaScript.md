@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/map-in-java-script/","created":"2023-07-17T15:43:45.800-06:00","updated":"2023-08-18T04:14:19.579-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/map-in-java-script/","tags":["type/permanent","code/javascript"],"created":"2023-07-17T15:43:45.800-06:00","updated":"2023-09-05T13:34:31.681-06:00"}
 ---
-
-#type/permanent #code/javascript
 
 # Map in JavaScript
 
