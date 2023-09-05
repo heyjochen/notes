@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/map-to-count-occurrences-in-array/","created":"2023-07-19T05:13:10.524-06:00","updated":"2023-08-03T15:51:02.309-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/map-to-count-occurrences-in-array/","tags":["code/question","code/javascript"],"created":"2023-07-19T05:13:10.524-06:00","updated":"2023-09-05T13:34:45.988-06:00"}
 ---
-
-#code/question #code/javascript
 
 # Map to count occurrences in array
 
