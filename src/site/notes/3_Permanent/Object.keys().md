@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/object-keys/","created":"2023-07-21T05:50:59.821-06:00","updated":"2023-08-02T13:53:08.137-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/object-keys/","tags":["code/javascript"],"created":"2023-07-21T05:50:59.821-06:00","updated":"2023-09-05T13:35:19.434-06:00"}
 ---
-
-#code/method #code/javascript
 
 # Object.keys()
 
