@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/large-technical-projects/","created":"2023-07-14T10:02:08.402-06:00","updated":"2023-08-17T09:00:48.431-06:00"}
+{"dg-publish":true,"permalink":"/2-literature/large-technical-projects/","tags":["type/literature","source/blog","code/projects"],"created":"2023-07-14T10:02:08.402-06:00","updated":"2023-09-05T13:28:04.504-06:00"}
 ---
 
-#type/literature #source/blog #code/projects
 # Large Technical Projects
 ## The starting line
 Don't overwhelm yourself and think about the biggest thing you can possibly build, start small so that you can get working results as soon as possible.
