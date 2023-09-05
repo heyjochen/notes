@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/singleton-pattern/","created":"2023-07-24T08:17:37.323-06:00","updated":"2023-08-03T15:49:26.151-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/singleton-pattern/","tags":["code/design_patterns"],"created":"2023-07-24T08:17:37.323-06:00","updated":"2023-09-05T13:40:34.802-06:00"}
 ---
-
-#code/method #code/javascript
 
 # Singleton Pattern
 
