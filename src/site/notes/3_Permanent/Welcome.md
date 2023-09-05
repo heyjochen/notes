@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/welcome/","tags":["gardenEntry"],"created":"2023-08-02T13:54:18.000-06:00","updated":"2023-09-04T21:15:28.012-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/welcome/","tags":["gardenEntry"],"created":"2023-08-02T13:54:18.000-06:00","updated":"2023-09-05T13:42:28.037-06:00"}
 ---
 
 # Welcome
