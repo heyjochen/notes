@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/observer-pattern/","created":"2023-07-21T05:28:51.825-06:00","updated":"2023-08-02T13:53:16.677-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/observer-pattern/","created":"2023-07-21T05:28:51.825-06:00","updated":"2023-09-05T13:35:49.208-06:00"}
 ---
-
-#code/method #code/javascript
 
 # Observer Pattern
 
