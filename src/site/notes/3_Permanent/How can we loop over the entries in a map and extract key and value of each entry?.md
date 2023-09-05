@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/how-can-we-loop-over-the-entries-in-a-map-and-extract-key-and-value-of-each-entry/","created":"2023-07-17T19:46:30.105-06:00","updated":"2023-09-04T21:22:17.272-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/how-can-we-loop-over-the-entries-in-a-map-and-extract-key-and-value-of-each-entry/","tags":["code/javascript"],"created":"2023-07-17T19:46:30.105-06:00","updated":"2023-09-05T13:32:10.490-06:00"}
 ---
-
-#code/question #code/javascript
 
 # How can we loop over the entries in a map and extract key and value of each entry?
 
