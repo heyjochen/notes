@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-fleeting/the-discrepancy-between-units/","created":"2023-08-05T04:29:29.969-06:00","updated":"2023-08-17T09:20:05.002-06:00"}
+{"dg-publish":true,"permalink":"/1-fleeting/the-discrepancy-between-units/","tags":["type/fleeting"],"created":"2023-08-05T04:29:29.969-06:00","updated":"2023-09-05T13:25:05.865-06:00"}
 ---
 
-#type/fleeting
-
 # The Discrepancy between units
-
 NASA mission gone wrong
  
 ---
