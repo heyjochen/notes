@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/how-to-create-symlinks-for-dotfiles/","created":"2023-07-21T05:16:53.390-06:00","updated":"2023-08-02T13:52:18.611-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/how-to-create-symlinks-for-dotfiles/","tags":["type/permanent"],"created":"2023-07-21T05:16:53.390-06:00","updated":"2023-09-05T13:33:20.711-06:00"}
 ---
 
 # How to create symlinks for dotfiles
