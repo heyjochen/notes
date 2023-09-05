@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/object-entries/","created":"2023-07-21T05:43:02.476-06:00","updated":"2023-08-02T13:53:05.761-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/object-entries/","tags":["code/javascript"],"created":"2023-07-21T05:43:02.476-06:00","updated":"2023-09-05T13:35:05.871-06:00"}
 ---
-
-#code/method #code/javascript
 
 # Object.entries()
 
