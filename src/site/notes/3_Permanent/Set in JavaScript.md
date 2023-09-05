@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/set-in-java-script/","created":"2023-07-17T15:57:49.240-06:00","updated":"2023-08-18T04:14:31.163-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/set-in-java-script/","tags":["type/permanent","code/javascript"],"created":"2023-07-17T15:57:49.240-06:00","updated":"2023-09-05T13:40:03.069-06:00"}
 ---
-
-#type/permanent #code/javascript
 
 # Set in JavaScript
 
