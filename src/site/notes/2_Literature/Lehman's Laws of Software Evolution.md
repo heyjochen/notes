@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/lehman-s-laws-of-software-evolution/","created":"2023-08-16T12:58:49.221-06:00","updated":"2023-08-17T08:56:28.760-06:00"}
+{"dg-publish":true,"permalink":"/2-literature/lehman-s-laws-of-software-evolution/","tags":["type/literature","code/best_practices"],"created":"2023-08-16T12:58:49.221-06:00","updated":"2023-09-05T13:28:24.845-06:00"}
 ---
 
-#type/literature #code/best_practices 
 # Lehman's Laws of Software Evolution
 
 > [!NOTE]
