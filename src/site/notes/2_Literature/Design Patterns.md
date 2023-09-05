@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/design-patterns/","created":"2023-07-20T05:13:32.056-06:00","updated":"2023-08-16T13:52:48.671-06:00"}
+{"dg-publish":true,"permalink":"/2-literature/design-patterns/","tags":["type/literature"],"created":"2023-07-20T05:13:32.056-06:00","updated":"2023-09-05T13:26:59.508-06:00"}
 ---
 
-#type/literature
 # Design Patterns
-
 Concepts to handle recurring themes
 
 ---
