@@ -6,11 +6,11 @@
 
 # Sveltekit MOC
 - [[3_Permanent/Sveltekit MOC\|Sveltekit MOC]]
+- [[3_Permanent/Slot in Sveltekit\|Slot in Sveltekit]]
 - [[3_Permanent/Route Parameters in Sveltekit\|Route Parameters in Sveltekit]]
 - [[3_Permanent/Routing in Sveltekit\|Routing in Sveltekit]]
-- [[3_Permanent/How do props work in Sveltekit?\|How do props work in Sveltekit?]]
-- [[3_Permanent/Reactivity in Sveltekit\|Reactivity in Sveltekit]]
 - [[3_Permanent/Rendering in Sveltekit\|Rendering in Sveltekit]]
-- [[3_Permanent/Slot in Sveltekit\|Slot in Sveltekit]]
+- [[3_Permanent/Reactivity in Sveltekit\|Reactivity in Sveltekit]]
+- [[3_Permanent/How do props work in Sveltekit?\|How do props work in Sveltekit?]]
 
 { .block-language-dataview}
