@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/how-do-we-create-a-new-go-project/","created":"2023-08-03T05:57:32.605-06:00","updated":"2023-08-03T15:48:17.665-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/how-do-we-create-a-new-go-project/","tags":["code/go","type/permanent"],"created":"2023-08-03T05:57:32.605-06:00","updated":"2023-09-05T13:33:07.079-06:00"}
 ---
 
-#type/permanent #code/go 
-
+# How do we create a new Go project?
 ---
 go mod init - initializes a new go.mod file in the directory specified -> creates new module
  
