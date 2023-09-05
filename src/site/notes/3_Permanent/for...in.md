@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/for-in/","created":"2023-07-21T05:56:21.837-06:00","updated":"2023-08-18T04:13:45.269-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/for-in/","tags":["code/method","code/javascript"],"created":"2023-07-21T05:56:21.837-06:00","updated":"2023-09-05T13:30:57.435-06:00"}
 ---
-
-#code/method #code/javascript
 
 # for...in
 
