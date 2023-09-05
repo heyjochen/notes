@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/what-is-the-relationship-between-packages-and-modules-in-go/","created":"2023-08-04T06:15:37.177-06:00","updated":"2023-08-18T04:14:40.869-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/what-is-the-relationship-between-packages-and-modules-in-go/","tags":["code/go"],"created":"2023-08-04T06:15:37.177-06:00","updated":"2023-09-05T13:45:59.380-06:00"}
 ---
 
-#type/permanent #type/go
-
----
+# What is the relationship between packages and modules in Go?
 Go code is grouped into packages, and packages are grouped into modules.
 ### Packages
 There are two types of packages:
@@ -57,6 +55,6 @@ require (
 ## Terms
 ## Related
 [[3_Permanent/What is the purpose of a module in Go?\|What is the purpose of a module in Go?]]
-[[1_Fleeting/How can we call a function that is within another module?\|How can we call a function that is within another module?]]
+[[How can we call a function that is within another module?\|How can we call a function that is within another module?]]
 ## References
 [Using Go Modules](https://go.dev/blog/using-go-modules)
