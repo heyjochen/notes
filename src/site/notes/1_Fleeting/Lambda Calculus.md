@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-fleeting/lambda-calculus/","created":"2023-08-13T11:26:18.000-06:00","updated":"2023-09-04T22:37:31.000-06:00"}
+{"dg-publish":true,"permalink":"/1-fleeting/lambda-calculus/","tags":["type/fleeting"],"created":"2023-08-13T11:26:18.000-06:00","updated":"2023-09-05T13:23:49.231-06:00"}
 ---
 
-#type/fleeting
-
----
-Describe the Lambda calculus:
+# Lambda Calculus
+## Describe the Lambda calculus:
 
 
 ---
