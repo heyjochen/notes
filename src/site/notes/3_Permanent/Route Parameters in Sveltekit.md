@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/route-parameters-in-sveltekit/","created":"2023-07-24T14:19:19.620-06:00","updated":"2023-08-02T13:49:15.983-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/route-parameters-in-sveltekit/","tags":["code/sveltekit"],"created":"2023-07-24T14:19:19.620-06:00","updated":"2023-09-05T13:39:42.991-06:00"}
 ---
-
-#code/sveltekit
 
 # Route Parameters in Sveltekit
 
