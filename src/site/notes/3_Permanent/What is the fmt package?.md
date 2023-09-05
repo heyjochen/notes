@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/what-is-the-fmt-package/","created":"2023-08-03T06:22:15.901-06:00","updated":"2023-08-16T13:56:57.886-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/what-is-the-fmt-package/","tags":["type/permanent"],"created":"2023-08-03T06:22:15.901-06:00","updated":"2023-09-05T13:44:47.671-06:00"}
 ---
 
-#type/permanent 
+# What is the fmt package?
 
 Used for formatting input and output similar to C's printf and scanf.
 
