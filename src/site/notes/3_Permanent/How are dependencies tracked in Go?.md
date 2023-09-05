@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/how-are-dependencies-tracked-in-go/","created":"2023-08-03T05:50:10.966-06:00","updated":"2023-08-04T06:00:19.957-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/how-are-dependencies-tracked-in-go/","tags":["type/permanent","code/go"],"created":"2023-08-03T05:50:10.966-06:00","updated":"2023-09-05T13:31:56.926-06:00"}
 ---
 
-#type/permanent #code/go 
-
+# How are dependencies tracked in Go?
 ---
 We create a folder via go mod init and specify a path name like so
 `go mod init folder/name`
