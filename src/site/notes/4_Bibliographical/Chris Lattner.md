@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-bibliographical/chris-lattner/","tags":["role/computer_scientist"],"created":"2023-09-04T20:46:52.192-06:00","updated":"2023-09-04T20:56:12.230-06:00"}
+{"dg-publish":true,"permalink":"/4-bibliographical/chris-lattner/","tags":["role/computer_scientist"],"created":"2023-09-04T21:46:52.192-05:00","updated":"2023-09-04T21:56:12.230-05:00"}
 ---
 
 # Chris Lattner
