@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/what-is-the-relationship-between-packages-and-modules-in-go/","tags":["code/go"],"created":"2023-08-04T06:15:37.177-06:00","updated":"2023-09-05T13:45:59.380-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/what-is-the-relationship-between-packages-and-modules-in-go/","tags":["code/go"],"created":"2023-08-04T07:15:37.177-05:00","updated":"2023-09-05T14:45:59.380-05:00"}
 ---
 
 # What is the relationship between packages and modules in Go?
