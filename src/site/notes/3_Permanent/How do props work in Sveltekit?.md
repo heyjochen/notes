@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/how-do-props-work-in-sveltekit/","tags":["code/sveltekit","type/permanent"],"created":"2023-08-03T08:49:49.238-06:00","updated":"2023-09-05T13:32:44.675-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/how-do-props-work-in-sveltekit/","tags":["code/sveltekit","type/permanent"],"created":"2023-08-03T09:49:49.238-05:00","updated":"2023-09-05T14:32:44.675-05:00"}
 ---
 
 # How do props work in Sveltekit?
