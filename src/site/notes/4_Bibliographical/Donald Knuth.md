@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-bibliographical/donald-knuth/","tags":["role/computer_scientist"],"created":"2023-07-21T05:11:47.859-06:00","updated":"2023-09-04T20:54:19.466-06:00"}
+{"dg-publish":true,"permalink":"/4-bibliographical/donald-knuth/","tags":["role/computer_scientist"],"created":"2023-07-21T06:11:47.859-05:00","updated":"2023-09-04T21:54:19.466-05:00"}
 ---
 
 # Donald Knuth
