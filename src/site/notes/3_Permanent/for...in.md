@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/for-in/","tags":["code/method","code/javascript"],"created":"2023-07-21T05:56:21.837-06:00","updated":"2023-09-05T13:30:57.435-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/for-in/","tags":["code/method","code/javascript"],"created":"2023-07-21T06:56:21.837-05:00","updated":"2023-09-05T14:30:57.435-05:00"}
 ---
 
 # for...in
