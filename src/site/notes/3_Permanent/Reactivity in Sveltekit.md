@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/reactivity-in-sveltekit/","tags":["code/sveltekit"],"created":"2023-07-23T14:30:13.958-06:00","updated":"2023-09-05T13:39:22.526-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/reactivity-in-sveltekit/","tags":["code/sveltekit"],"created":"2023-07-23T15:30:13.958-05:00","updated":"2023-09-05T14:39:22.526-05:00"}
 ---
 
 # Reactivity in Sveltekit
