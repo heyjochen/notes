@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/routing-in-sveltekit/","tags":["code/sveltekit"],"created":"2023-07-24T14:04:05.418-06:00","updated":"2023-09-05T13:39:50.870-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/routing-in-sveltekit/","tags":["code/sveltekit"],"created":"2023-07-24T15:04:05.418-05:00","updated":"2023-09-05T14:39:50.870-05:00"}
 ---
 
 # Routing in Sveltekit
