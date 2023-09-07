@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/on-abstractions-in-software-engineering/","tags":["code/best_practices"],"created":"2023-07-27T11:48:32.107-06:00","updated":"2023-09-05T13:35:58.160-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/on-abstractions-in-software-engineering/","tags":["code/best_practices"],"created":"2023-07-27T12:48:32.107-05:00","updated":"2023-09-05T14:35:58.160-05:00"}
 ---
 
 # On Abstractions in Software Engineering
