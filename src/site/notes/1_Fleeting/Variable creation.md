@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-fleeting/variable-creation/","tags":["code/javascript"],"created":"2023-07-26T05:52:38.000-06:00","updated":"2023-09-05T13:26:02.626-06:00"}
+{"dg-publish":true,"permalink":"/1-fleeting/variable-creation/","tags":["code/javascript"],"created":"2023-07-26T06:52:38.000-05:00","updated":"2023-09-05T14:26:02.626-05:00"}
 ---
 
 # Variable creation
