@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/how-are-dependencies-tracked-in-go/","tags":["type/permanent","code/go"],"created":"2023-08-03T05:50:10.966-06:00","updated":"2023-09-05T13:31:56.926-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/how-are-dependencies-tracked-in-go/","tags":["type/permanent","code/go"],"created":"2023-08-03T06:50:10.966-05:00","updated":"2023-09-05T14:31:56.926-05:00"}
 ---
 
 # How are dependencies tracked in Go?
