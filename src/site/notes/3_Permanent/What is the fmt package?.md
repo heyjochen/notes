@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/what-is-the-fmt-package/","tags":["type/permanent"],"created":"2023-08-03T06:22:15.901-06:00","updated":"2023-09-05T13:44:47.671-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/what-is-the-fmt-package/","tags":["type/permanent"],"created":"2023-08-03T07:22:15.901-05:00","updated":"2023-09-05T14:44:47.671-05:00"}
 ---
 
 # What is the fmt package?
