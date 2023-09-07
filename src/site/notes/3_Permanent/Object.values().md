@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/object-values/","tags":["code/javascript"],"created":"2023-07-19T06:00:19.976-06:00","updated":"2023-09-05T13:35:28.846-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/object-values/","tags":["code/javascript"],"created":"2023-07-19T07:00:19.976-05:00","updated":"2023-09-05T14:35:28.846-05:00"}
 ---
 
 # Object.values()
