@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/what-is-the-purpose-of-a-module-in-go/","tags":["code/go"],"created":"2023-08-04T06:10:27.865-06:00","updated":"2023-09-05T13:45:03.345-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/what-is-the-purpose-of-a-module-in-go/","tags":["code/go"],"created":"2023-08-04T07:10:27.865-05:00","updated":"2023-09-05T14:45:03.345-05:00"}
 ---
 
 # What is the purpose of a module in Go?
