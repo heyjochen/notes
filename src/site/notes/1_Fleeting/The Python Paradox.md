@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-fleeting/the-python-paradox/","tags":["type/fleeting","#source/blog"],"created":"2023-08-12T05:16:33.979-06:00","updated":"2023-09-05T13:25:40.582-06:00"}
+{"dg-publish":true,"permalink":"/1-fleeting/the-python-paradox/","tags":["type/fleeting","#source/blog"],"created":"2023-08-12T06:16:33.979-05:00","updated":"2023-09-05T14:25:40.582-05:00"}
 ---
 
 # The Python Paradox
