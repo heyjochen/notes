@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-fleeting/lambda-calculus/","tags":["type/fleeting"],"created":"2023-08-13T11:26:18.000-06:00","updated":"2023-09-05T13:23:49.231-06:00"}
+{"dg-publish":true,"permalink":"/1-fleeting/lambda-calculus/","tags":["type/fleeting"],"created":"2023-08-13T12:26:18.000-05:00","updated":"2023-09-05T14:23:49.231-05:00"}
 ---
 
 # Lambda Calculus
