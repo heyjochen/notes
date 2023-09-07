@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/observer-pattern/","created":"2023-07-21T05:28:51.825-06:00","updated":"2023-09-05T13:35:49.208-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/observer-pattern/","created":"2023-07-21T06:28:51.825-05:00","updated":"2023-09-05T14:35:49.208-05:00"}
 ---
 
 # Observer Pattern
