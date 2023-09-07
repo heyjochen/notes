@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/what-is-an-abstraction/","tags":["code/best_practices"],"created":"2023-07-27T11:56:33.213-06:00","updated":"2023-09-05T13:44:33.972-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/what-is-an-abstraction/","tags":["code/best_practices"],"created":"2023-07-27T12:56:33.213-05:00","updated":"2023-09-05T14:44:33.972-05:00"}
 ---
 
 # What is an abstraction?
