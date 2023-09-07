@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/2023-book-list/","tags":["type/permanent"],"created":"2023-08-03T19:54:51.000-06:00","updated":"2023-09-05T13:28:47.681-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/2023-book-list/","tags":["type/permanent"],"created":"2023-08-03T20:54:51.000-05:00","updated":"2023-09-05T14:28:47.681-05:00"}
 ---
 
 # 2023 Book List
