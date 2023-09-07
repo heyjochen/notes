@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/set-in-java-script/","tags":["type/permanent","code/javascript"],"created":"2023-07-17T15:57:49.240-06:00","updated":"2023-09-05T13:40:03.069-06:00"}
+{"dg-publish":true,"permalink":"/3-permanent/set-in-java-script/","tags":["type/permanent","code/javascript"],"created":"2023-07-17T16:57:49.240-05:00","updated":"2023-09-05T18:20:36.037-05:00"}
 ---
 
 # Set in JavaScript
-
 A Set in JavaScript keeps track of values and only stores unique values. 
 
 ```javascript
