@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/large-technical-projects/","tags":["type/literature","source/blog","code/projects"],"created":"2023-07-14T10:02:08.402-06:00","updated":"2023-09-05T13:28:04.504-06:00"}
+{"dg-publish":true,"permalink":"/2-literature/large-technical-projects/","tags":["type/literature","source/blog","code/projects"],"created":"2023-07-14T11:02:08.402-05:00","updated":"2023-09-06T13:04:30.803-05:00"}
 ---
 
 # Large Technical Projects
@@ -22,6 +22,5 @@ These demo states aren't even an MVP, they should just give you a something to s
 Build only what you need as you need it and adopt your software as quickly as possible.
 ## References
 - [Blog Article](https://mitchellh.com/writing/building-large-technical-projects)
-
 ## Related
 [[3_Permanent/Break down Problems\|Break down Problems]]
