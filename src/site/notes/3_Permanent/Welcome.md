@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-permanent/welcome/","tags":["gardenEntry"],"created":"2023-08-02T14:54:18.000-05:00","updated":"2023-09-05T14:42:28.037-05:00"}
+{"dg-publish":true,"permalink":"/3-permanent/welcome/","tags":["gardenEntry"],"created":"2023-08-02T14:54:18.000-05:00","updated":"2023-09-08T06:39:25.726-05:00"}
 ---
 
 # Welcome
@@ -32,6 +32,3 @@ It's called [Gruvbox Material](https://github.com/sainnhe/gruvbox-material). I c
 ## Launching points
 - [[3_Permanent/Best Practices MOC\|Best Practices MOC]]
 - [[3_Permanent/2023 Book List\|2023 Book List]]
-- [[3_Permanent/JavaScript MOC\|JavaScript MOC]]
-- [[3_Permanent/Go MOC\|Go MOC]]
-- [[3_Permanent/Sveltekit MOC\|Sveltekit MOC]]
