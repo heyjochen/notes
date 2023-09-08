@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/culture-of-excellence/","tags":["type/literature","source/blog"],"created":"2023-08-04T15:27:13.868-05:00","updated":"2023-09-05T14:26:43.805-05:00"}
+{"dg-publish":true,"permalink":"/2-literature/culture-of-excellence/","tags":["source/blog"],"created":"2023-08-04T15:27:13.868-05:00","updated":"2023-09-08T06:34:09.036-05:00"}
 ---
 
 # Culture of Excellence
