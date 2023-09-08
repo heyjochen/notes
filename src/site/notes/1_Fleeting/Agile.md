@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-fleeting/agile/","tags":["type/fleeting"],"created":"2023-07-20T19:47:03.166-05:00","updated":"2023-09-05T14:20:31.594-05:00"}
+{"dg-publish":true,"permalink":"/1-fleeting/agile/","created":"2023-07-20T19:47:03.166-05:00","updated":"2023-09-08T06:06:46.380-05:00"}
 ---
 
 # Agile
