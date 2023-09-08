@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/large-technical-projects/","tags":["type/literature","source/blog","code/projects"],"created":"2023-07-14T11:02:08.402-05:00","updated":"2023-09-06T13:04:30.803-05:00"}
+{"dg-publish":true,"permalink":"/2-literature/large-technical-projects/","tags":["source/blog","code/projects"],"created":"2023-07-14T11:02:08.402-05:00","updated":"2023-09-08T06:34:26.311-05:00"}
 ---
 
 # Large Technical Projects
