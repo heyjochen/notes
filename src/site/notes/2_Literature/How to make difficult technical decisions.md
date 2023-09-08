@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/how-to-make-difficult-technical-decisions/","tags":["type/literature","source/blog"],"created":"2023-08-23T06:00:35.837-05:00","updated":"2023-09-06T13:06:14.682-05:00"}
+{"dg-publish":true,"permalink":"/2-literature/how-to-make-difficult-technical-decisions/","tags":["source/blog"],"created":"2023-08-23T06:00:35.837-05:00","updated":"2023-09-08T06:34:19.099-05:00"}
 ---
 
 # How to make difficult technical decisions
