@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-fleeting/how-to-ask-good-questions/","tags":["code/best_practices"],"created":"2023-09-06T13:09:56.201-05:00","updated":"2023-09-11T17:58:18.690-05:00"}
+{"dg-publish":true,"permalink":"/1-fleeting/how-to-ask-good-questions/","tags":["code/best_practices"],"created":"2023-09-06T13:09:56.201-05:00","updated":"2023-09-11T17:58:48.173-05:00"}
 ---
 
 # How to ask good questions
@@ -19,4 +19,3 @@
 Think about creating a dictionary 
 ## References
 [Source](https://jvns.ca/blog/good-questions/)
-## Related
