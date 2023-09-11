@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/how-to-become-a-better-software-engineer/","tags":["source/blog"],"created":"2023-08-05T07:06:57.852-05:00","updated":"2023-09-08T06:34:13.656-05:00"}
+{"dg-publish":true,"permalink":"/2-literature/how-to-become-a-better-software-engineer/","tags":["source/blog","code/best_practices"],"created":"2023-08-05T07:06:57.852-05:00","updated":"2023-09-11T18:12:27.637-05:00"}
 ---
 
 # How to become a better Software Engineer
