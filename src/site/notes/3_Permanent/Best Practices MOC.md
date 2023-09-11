@@ -12,5 +12,13 @@
 - [[3_Permanent/On Readability in Software Engineering\|On Readability in Software Engineering]]
 - [[3_Permanent/On Simplicity in Software Engineering\|On Simplicity in Software Engineering]]
 - [[3_Permanent/What is an abstraction?\|What is an abstraction?]]
+- [[2_Literature/How to ask good questions\|How to ask good questions]]
+- [[2_Literature/Learn how things work\|Learn how things work]]
+- [[2_Literature/Boring Architecture\|Boring Architecture]]
+- [[2_Literature/Making a plan\|Making a plan]]
+- [[2_Literature/How to make difficult technical decisions\|How to make difficult technical decisions]]
+- [[2_Literature/How to do great Code Reviews?\|How to do great Code Reviews?]]
+- [[2_Literature/How to become a better Software Engineer\|How to become a better Software Engineer]]
+- [[2_Literature/Culture of Excellence\|Culture of Excellence]]
 
 { .block-language-dataview}
