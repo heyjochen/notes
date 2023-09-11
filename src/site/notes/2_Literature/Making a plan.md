@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/making-a-plan/","tags":["source/blog"],"created":"2023-08-17T10:02:08.140-05:00","updated":"2023-09-08T06:35:40.486-05:00"}
+{"dg-publish":true,"permalink":"/2-literature/making-a-plan/","tags":["source/blog","code/best_practices"],"created":"2023-08-17T10:02:08.140-05:00","updated":"2023-09-11T18:11:49.308-05:00"}
 ---
 
 # Making a plan
