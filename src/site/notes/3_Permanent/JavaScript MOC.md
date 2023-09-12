@@ -15,7 +15,6 @@
 - [[3_Permanent/Object.entries()\|Object.entries()]]
 - [[3_Permanent/Object.values()\|Object.values()]]
 - [[1_Fleeting/Iterate over a Map\|Iterate over a Map]]
-- [[1_Fleeting/Sliding Window\|Sliding Window]]
 - [[3_Permanent/Object.keys()\|Object.keys()]]
 - [[3_Permanent/Set in JavaScript\|Set in JavaScript]]
 - [[3_Permanent/Set to keep track of values\|Set to keep track of values]]
@@ -28,5 +27,6 @@
 - [[3_Permanent/What Object methods are there?\|What Object methods are there?]]
 - [[3_Permanent/for...in\|for...in]]
 - [[3_Permanent/sort()\|sort()]]
+- [[1_Fleeting/Sliding Window\|Sliding Window]]
 
 { .block-language-dataview}
