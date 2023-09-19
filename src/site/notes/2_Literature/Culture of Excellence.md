@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/culture-of-excellence/","tags":["source/blog","code/best_practices"],"created":"2023-08-04T15:27:13.868-05:00","updated":"2023-09-11T18:12:39.899-05:00"}
+{"dg-publish":true,"permalink":"/2-literature/culture-of-excellence/","tags":["source/blog","code/best_practices"],"created":"2023-08-04T15:27:13.868-05:00","updated":"2023-09-19T08:07:21.222-05:00"}
 ---
 
 # Culture of Excellence
@@ -55,7 +55,5 @@ Team Dynamics matter more than a couple 10x engineers.
 - Task-driven
 - Velocity 
 - OKR
-## References
-[Related Blogpost](https://mikefisher.substack.com/p/cultivating-a-culture-of-excellence)
 ## Related
 [OKR](https://www.atlassian.com/agile/agile-at-scale/okr)
