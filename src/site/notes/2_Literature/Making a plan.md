@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/making-a-plan/","tags":["source/blog","code/best_practices"],"created":"2023-08-17T10:02:08.140-05:00","updated":"2023-09-11T18:11:49.308-05:00"}
+{"dg-publish":true,"permalink":"/2-literature/making-a-plan/","tags":["source/blog","code/best_practices"],"created":"2023-08-17T10:02:08.140-05:00","updated":"2023-09-19T08:08:00.512-05:00"}
 ---
 
 # Making a plan
@@ -20,6 +20,4 @@ By writing out these things, you are actively thinking about them which means yo
 ---
 ## Questions
 ## Terms
-## References
-[Making a plan](https://registerspill.thorstenball.com/p/making-a-plan)
 ## Related
