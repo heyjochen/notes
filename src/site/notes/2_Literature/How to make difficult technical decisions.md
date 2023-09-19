@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/how-to-make-difficult-technical-decisions/","tags":["source/blog","code/best_practices"],"created":"2023-08-23T06:00:35.837-05:00","updated":"2023-09-11T18:12:10.027-05:00"}
+{"dg-publish":true,"permalink":"/2-literature/how-to-make-difficult-technical-decisions/","tags":["source/blog","code/best_practices"],"created":"2023-08-23T06:00:35.837-05:00","updated":"2023-09-19T08:07:43.139-05:00"}
 ---
 
 # How to make difficult technical decisions
@@ -30,6 +30,4 @@
 ---
 ## Questions
 ## Terms
-## References
-[How to make difficult technical decisions you and your team won't regret](https://careercutler.substack.com/p/how-to-make-difficult-technical-decisions)
 ## Related
