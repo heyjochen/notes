@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/lehman-s-laws-of-software-evolution/","tags":["code/best_practices"],"created":"2023-08-16T13:58:49.221-05:00","updated":"2023-09-08T06:34:30.722-05:00"}
+{"dg-publish":true,"permalink":"/2-literature/lehman-s-laws-of-software-evolution/","tags":["code/best_practices"],"created":"2023-08-16T13:58:49.221-05:00","updated":"2023-09-19T08:07:56.339-05:00"}
 ---
 
 # Lehman's Laws of Software Evolution
@@ -33,7 +33,6 @@
 - Evolution
 - [[Technical Debt\|Technical Debt]]
 ## References
-[Original blog post](https://bartwullems.blogspot.com/2023/05/lehmans-laws-of-software-evolution.html)
 [Lehman's paper from 1980](https://ieeexplore.ieee.org/document/1456074)
 ## Related
 [[Software Evolution\|Software Evolution]]
