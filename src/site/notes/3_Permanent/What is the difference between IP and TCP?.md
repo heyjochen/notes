@@ -7,4 +7,4 @@ TCP/IP are separate protocols that work together in a network. IP is a protocol 
 ## Related
 [[1_Fleeting/System Design\|System Design]]
 [[3_Permanent/IP\|IP]]
-[[1_Fleeting/TCP\|TCP]]
+[[3_Permanent/TCP\|TCP]]
