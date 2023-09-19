@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/how-to-ask-good-questions/","tags":["code/best_practices"],"created":"2023-09-06T13:09:56.201-05:00","updated":"2023-09-11T17:58:48.173-05:00"}
+{"dg-publish":true,"permalink":"/2-literature/how-to-ask-good-questions/","tags":["code/best_practices"],"created":"2023-09-06T13:09:56.201-05:00","updated":"2023-09-19T08:07:28.003-05:00"}
 ---
 
 # How to ask good questions
@@ -17,5 +17,3 @@
 **Be able to state what you don't understand in a clear and concise way.**
 
 Think about creating a dictionary 
-## References
-[Source](https://jvns.ca/blog/good-questions/)
