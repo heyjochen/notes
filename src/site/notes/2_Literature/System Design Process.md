@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/system-design-process/","tags":["code/system_design"],"created":"2023-09-07T07:02:04.028-05:00","updated":"2023-09-08T06:02:55.573-05:00"}
+{"dg-publish":true,"permalink":"/2-literature/system-design-process/","tags":["code/system_design"],"created":"2023-09-07T07:02:04.028-05:00","updated":"2023-09-19T08:08:04.512-05:00"}
 ---
 
 # System Design Process
@@ -45,6 +45,4 @@ Think about bottlenecks. Read your companies blog and find out about their tech 
 
 - How can we make our system more robust?
 - Is there a single point of failure?
-## References
-[Source](https://github.com/karanpratapsingh/system-design#system-design-interviews)
 ## Related
