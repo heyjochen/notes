@@ -5,7 +5,7 @@
 # DSA Techniques MOC
 ---
 - [[Templates/Code Technique\|Code Technique]]
-- [[3_Permanent/Sliding Window\|Sliding Window]]
 - [[3_Permanent/Two Pointers\|Two Pointers]]
+- [[3_Permanent/Sliding Window\|Sliding Window]]
 
 { .block-language-dataview}
