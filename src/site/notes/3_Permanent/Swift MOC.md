@@ -4,7 +4,7 @@
 
 # Swift MOC
 ---
-- [[1_Fleeting/Swift App Ideas\|Swift App Ideas]]
 - [[1_Fleeting/How to learn Swift or SwiftUI\|How to learn Swift or SwiftUI]]
+- [[1_Fleeting/Swift App Ideas\|Swift App Ideas]]
 
 { .block-language-dataview}
