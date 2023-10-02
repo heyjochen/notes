@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-literature/how-was-whats-app-able-to-pull-it-off/","tags":["source/blog"],"created":"2023-09-26T17:19:31.021-05:00","updated":"2023-09-26T17:21:45.306-05:00"}
+{"dg-publish":true,"permalink":"/2-literature/how-was-whats-app-able-to-pull-it-off/","tags":["source/blog"],"created":"2023-09-26T17:19:31.021-05:00","updated":"2023-09-26T17:23:26.233-05:00"}
 ---
 
 # How was WhatsApp able to pull it off?
@@ -9,10 +9,10 @@
 
 ## 8 Reasons:
 1. Single Responsibility - Chat
-2. Tech Stack
+2. Tech Stack - Erlang
 3. Don't reinvent the wheel === KISS
 4. CI / CD pipeline
 5. Diagonal Scaling
-6. Flywheel Effect
+6. Flywheel Effect - Continuous Feedback
 7. Load Testing
 8. Small team
