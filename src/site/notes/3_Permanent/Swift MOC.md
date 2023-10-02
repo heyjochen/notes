@@ -4,7 +4,8 @@
 
 # Swift MOC
 ---
-- [[1_Fleeting/How to learn Swift or SwiftUI\|How to learn Swift or SwiftUI]]
+- [[1_Fleeting/What I like about Swift and SwiftUI compared to JavaScript and any of the big frameworks\|What I like about Swift and SwiftUI compared to JavaScript and any of the big frameworks]]
 - [[1_Fleeting/Swift App Ideas\|Swift App Ideas]]
+- [[1_Fleeting/How to learn Swift or SwiftUI\|How to learn Swift or SwiftUI]]
 
 { .block-language-dataview}
