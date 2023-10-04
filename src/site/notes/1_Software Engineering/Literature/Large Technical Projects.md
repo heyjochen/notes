@@ -21,4 +21,4 @@ These demo states aren't even an MVP, they should just give you a something to s
 ## Build for yourself
 Build only what you need as you need it and adopt your software as quickly as possible.
 ## Related
-[[1_Software Engineering/Break down Problems\|Break down Problems]]
+[[1_Software Engineering/1_Fleeting/Break down Problems\|Break down Problems]]
