@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-software-engineering/data-structures-and-algorithms/leetcode/arrays/739-daily-temperatures/","tags":["code/dsa"],"created":"2023-10-03T07:21:01.889-05:00","updated":"2023-10-04T06:44:24.364-05:00"}
+{"dg-publish":true,"permalink":"/1-software-engineering/data-structures-and-algorithms/leetcode/arrays/739-daily-temperatures/","tags":["code/dsa"],"created":"2023-10-03T07:21:01.889-05:00","updated":"2023-10-04T08:07:38.671-05:00"}
 ---
 
 # 739 Daily Temperatures
