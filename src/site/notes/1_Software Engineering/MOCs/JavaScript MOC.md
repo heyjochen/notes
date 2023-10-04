@@ -3,7 +3,6 @@
 ---
 
 # JavaScript MOC
-- [[1_Software Engineering/Data Structures & Algorithms/Algorithms & Techniques/Two Pointers\|Two Pointers]]
 - [[1_Software Engineering/Languages/Javascript/Variable creation\|Variable creation]]
 - [[1_Software Engineering/Languages/Javascript/sort()\|sort()]]
 - [[1_Software Engineering/Data Structures & Algorithms/Algorithms & Techniques/Sliding Window\|Sliding Window]]
@@ -15,10 +14,8 @@
 - [[1_Software Engineering/Languages/Javascript/Destructuring\|Destructuring]]
 - [[1_Software Engineering/MOCs/JavaScript MOC\|JavaScript MOC]]
 - [[1_Software Engineering/Languages/for...in\|for...in]]
-- [[1_Software Engineering/Data Structures & Algorithms/Leetcode/Three Sum DSA\|Three Sum DSA]]
 - [[1_Software Engineering/Data Structures & Algorithms/Leetcode/Top K Frequent Elements DSA\|Top K Frequent Elements DSA]]
 - [[1_Software Engineering/Languages/Javascript/How can we loop over the entries in a map and extract key and value of each entry?\|How can we loop over the entries in a map and extract key and value of each entry?]]
-- [[1_Software Engineering/Data Structures & Algorithms/Leetcode/Contains Duplicate DSA\|Contains Duplicate DSA]]
 - [[1_Software Engineering/Data Structures & Algorithms/Leetcode/Group Anagrams DSA\|Group Anagrams DSA]]
 - [[1_Software Engineering/Languages/Javascript/What Object methods are there?\|What Object methods are there?]]
 - [[1_Software Engineering/Languages/Javascript/Object.values()\|Object.values()]]
@@ -26,7 +23,9 @@
 - [[1_Software Engineering/Languages/Javascript/Set to keep track of values\|Set to keep track of values]]
 - [[1_Software Engineering/Languages/Javascript/Map in JavaScript\|Map in JavaScript]]
 - [[1_Software Engineering/Data Structures & Algorithms/Leetcode/Valid Parentheses DSA\|Valid Parentheses DSA]]
-- [[1_Software Engineering/Data Structures & Algorithms/Leetcode/Two Sum II, Array is Sorted DSA\|Two Sum II, Array is Sorted DSA]]
 - [[1_Software Engineering/Data Structures & Algorithms/Leetcode/Valid Anagram DSA\|Valid Anagram DSA]]
+- [[1_Software Engineering/Data Structures & Algorithms/Leetcode/Contains Duplicate DSA\|Contains Duplicate DSA]]
+- [[1_Software Engineering/Data Structures & Algorithms/Leetcode/Three Sum DSA\|Three Sum DSA]]
+- [[1_Software Engineering/Data Structures & Algorithms/Algorithms & Techniques/Two Pointers\|Two Pointers]]
 
 { .block-language-dataview}
