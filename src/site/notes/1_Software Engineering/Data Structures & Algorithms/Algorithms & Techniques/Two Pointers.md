@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-software-engineering/data-structures-and-algorithms/algorithms-and-techniques/two-pointers/","tags":["code/javascript","code/dsa/technique"],"created":"2023-09-14T06:11:45.889-05:00","updated":"2023-09-19T07:41:00.432-05:00"}
+{"dg-publish":true,"permalink":"/1-software-engineering/data-structures-and-algorithms/algorithms-and-techniques/two-pointers/","tags":["code/javascript","code/dsa/technique"],"created":"2023-09-14T06:11:45.889-05:00","updated":"2023-10-04T07:51:45.102-05:00"}
 ---
 
 # Two Pointers
@@ -8,9 +8,9 @@ Used with certain patterns revolving around arrays, often times sorted, or in co
 - Searching: Finding elements or patterns
 - Sorting: Rearranging elements in specific order
 - Sliding Window
-## Common Techniques:
+## Common Questions:
 - Two Sum
-- Two Sum II
+- [[1_Software Engineering/Data Structures & Algorithms/Leetcode/Arrays/167 Two Sum II\|167 Two Sum II]]
 - Three Sum
 - Sliding Window
 ## Steps:
