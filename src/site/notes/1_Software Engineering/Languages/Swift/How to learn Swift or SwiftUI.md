@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-software-engineering/languages/swift/how-to-learn-swift-or-swift-ui/","tags":["code/swift"],"created":"2023-09-01T14:08:45.887-05:00","updated":"2023-10-03T15:26:59.220-05:00"}
+{"dg-publish":true,"permalink":"/1-software-engineering/languages/swift/how-to-learn-swift-or-swift-ui/","tags":["code/swift"],"created":"2023-09-01T14:08:45.887-05:00","updated":"2023-10-04T16:47:51.211-05:00"}
 ---
 
 # How to learn Swift or SwiftUI
@@ -20,7 +20,8 @@
 - [x] 7
 - [x] 8
 - [x] 9
-- [ ] **10**
+- [x] **10**
+- [ ] 
 
 
 Thanks so much for hosting the event at Adyen last week. Really enjoyed meeting some of the engineers and hearing more about the Tech Stack and everything involved. Super exciting!!
