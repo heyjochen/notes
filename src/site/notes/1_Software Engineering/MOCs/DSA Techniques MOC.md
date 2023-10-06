@@ -8,5 +8,6 @@
 - [[1_Software Engineering/Data Structures & Algorithms/Algorithms & Techniques/Two Pointers\|Two Pointers]]
 - [[1_Software Engineering/Data Structures & Algorithms/Algorithms & Techniques/Sliding Window\|Sliding Window]]
 - [[1_Software Engineering/Data Structures & Algorithms/Leetcode/Arrays/217 Contains duplicate\|217 Contains duplicate]]
+- [[1_Software Engineering/Data Structures & Algorithms/Data Structures/Strings\|Strings]]
 
 { .block-language-dataview}
