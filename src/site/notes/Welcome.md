@@ -30,5 +30,5 @@ It's called [Gruvbox Material](https://github.com/sainnhe/gruvbox-material). I c
 - Markdown
 - Netlify
 ## Launching points
-- [[1_Software Engineering/MOCs/Best Practices MOC\|Best Practices MOC]]
+- [[Software Engineering/MOCs/Best Practices MOC\|Best Practices MOC]]
 - [[2023 Book List\|2023 Book List]]
