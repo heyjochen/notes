@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-administration/00-about/00-01-index/welcome/","tags":["gardenEntry"],"created":"2023-08-02T14:54:18.000-05:00","updated":"2023-10-18T08:05:59.753-05:00"}
+{"dg-publish":true,"permalink":"/00-09-administration/00-about/00-01-index/welcome/","tags":["gardenEntry"],"created":"2023-08-02T14:54:18.000-05:00","updated":"2023-10-29T12:36:40.118-05:00"}
 ---
 
 # Welcome
@@ -29,3 +29,5 @@ It's called [Gruvbox Material](https://github.com/sainnhe/gruvbox-material). I c
 - [Obsidian Digital Garden Plugin](https://dg-docs.ole.dev/)
 - Markdown
 - Netlify
+## What am I reading currently?
+- [[20-29 Software Engineering/20 Personal Development/20.01 Books/On Writing Well\|On Writing Well]]
