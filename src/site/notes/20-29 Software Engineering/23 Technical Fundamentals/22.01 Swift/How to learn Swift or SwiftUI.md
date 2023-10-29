@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-software-engineering/23-technical-fundamentals/22-01-swift/how-to-learn-swift-or-swift-ui/","tags":["code/swift"],"created":"2023-09-01T14:08:45.887-05:00","updated":"2023-10-26T15:00:53.400-05:00"}
+{"dg-publish":true,"permalink":"/20-29-software-engineering/23-technical-fundamentals/22-01-swift/how-to-learn-swift-or-swift-ui/","tags":["code/swift"],"created":"2023-09-01T14:08:45.887-05:00","updated":"2023-10-28T14:13:00.010-05:00"}
 ---
 
 # How to learn Swift or SwiftUI
@@ -10,7 +10,7 @@
 2. https://kean.blog
 3. The Swift Programming Language Book
 4. [Build Apps w/Swift + SwiftUI](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSM6dFSwQCIl409gNBsqKTe)
-
+5. [Swift Connection 2023](https://www.youtube.com/playlist?list=PLZsRQnRG-mlI4T7gALW4_aK85dSTIooGd)
 ## Hacking with Swift 100 Days SwiftUI
 - [x] 1
 - [x] 2
@@ -36,7 +36,8 @@
 - [x] 22
 - [x] 23
 - [x] 24
-- [ ] 25
+- [x] 25
+- [ ] 26
 
 [Solutions](https://github.com/aletsdelarosa/100-days-of-swiftui)
 ## Problems & Exercises
