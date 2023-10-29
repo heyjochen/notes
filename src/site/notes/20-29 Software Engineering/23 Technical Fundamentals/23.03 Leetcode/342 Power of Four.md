@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-software-engineering/23-technical-fundamentals/23-03-leetcode/342-power-of-four/","tags":["dsa/recursion"],"created":"2023-10-27T07:43:39.761-05:00","updated":"2023-10-27T07:58:41.081-05:00"}
+{"dg-publish":true,"permalink":"/20-29-software-engineering/23-technical-fundamentals/23-03-leetcode/342-power-of-four/","tags":["dsa/recursion"],"created":"2023-10-27T07:43:39.761-05:00","updated":"2023-10-27T08:13:22.695-05:00"}
 ---
 
 # 342 Power of Four
@@ -17,8 +17,8 @@ An integer `n` is a power of four, if there exists an integer `x` such that `n =
 **Output:** true
 ## Approach
 We can solve this with Recursion where we recursively call the function with `n = n / 4`.
-The base case has to be defined as `n === 1`, if that is true we return true. 
-To get to the base case we have to understand exponents. If the integer `n` is equal to `1` it can be expressed as `4^0`, which satisfies the definition of a power of four.
+The base case has to be defined as `n === 1`. If we reach 1 we know that the passed in number is a power of four.
+To get to the base case we have to understand exponents. If the integer `n` is equal to `1` it can be expressed as `4^0`, which satisfies the definition of a power of four and is the smallest possible case of power of four.
 ## Solution
 ```javascript
 var isPowerOfFour = function(n) {
