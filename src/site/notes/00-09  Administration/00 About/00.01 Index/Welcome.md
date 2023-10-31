@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-administration/00-about/00-01-index/welcome/","tags":["gardenEntry"],"created":"2023-08-02T14:54:18.000-05:00","updated":"2023-10-29T12:36:40.118-05:00"}
+{"dg-publish":true,"permalink":"/00-09-administration/00-about/00-01-index/welcome/","tags":["gardenEntry"],"created":"2023-08-02T14:54:18.000-05:00","updated":"2023-10-30T19:55:48.659-05:00"}
 ---
 
 # Welcome
@@ -22,8 +22,6 @@ I read through variety of resources and have developed a workflow that looks lik
 - Mark favorites in my Kobo to revisit later
 - Take notes on those favorites via [Obsidian]() in a loose [ZK](https://zettelkasten.de/introduction/) workflow paired with Johnny Decimal
 - Refine, revisit, improve, publish
-## What is this ugly color-scheme?
-It's called [Gruvbox Material](https://github.com/sainnhe/gruvbox-material). I chose it because of its adjusted contrast, which helps protect my eyes during long days on the screen. I use it both in Obsidian as well as in my development environment.
 ## How did I create this?
 - Obsidian
 - [Obsidian Digital Garden Plugin](https://dg-docs.ole.dev/)
