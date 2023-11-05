@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-administration/00-about/00-01-index/welcome/","tags":["gardenEntry"],"created":"2023-08-02T14:54:18.000-05:00","updated":"2023-10-30T19:55:48.659-05:00"}
+{"dg-publish":true,"permalink":"/00-09-administration/00-about/00-01-index/welcome/","tags":["gardenEntry"],"created":"2023-08-02T14:54:18.000-05:00","updated":"2023-11-05T17:41:41.426-06:00"}
 ---
 
 # Welcome
@@ -29,3 +29,4 @@ I read through variety of resources and have developed a workflow that looks lik
 - Netlify
 ## What am I reading currently?
 - [[20-29 Software Engineering/20 Personal Development/20.01 Books/On Writing Well\|On Writing Well]]
+- [[10-19 Personal/10 Personal Development/10.01 Books/How to win friends and influence people\|How to win friends and influence people]]
