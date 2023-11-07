@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-software-engineering/20-personal-development/20-02-blogs/how-to-do-great-code-reviews/","tags":["source/blog","code/best_practices"],"created":"2023-08-14T22:41:33.499-05:00","updated":"2023-10-29T08:28:23.010-05:00"}
+{"dg-publish":true,"permalink":"/20-29-software-engineering/20-personal-development/20-02-blogs/how-to-do-great-code-reviews/","tags":["source/blog","code/best_practices"],"created":"2023-08-14T22:41:33.499-05:00","updated":"2023-11-05T17:46:15.703-06:00"}
 ---
 
 # How to do great Code Reviews?
@@ -25,7 +25,6 @@ Always run your code and make sure it works before you create a PR. Make use of 
 - You are not your code. Don't have too much ego and take critique personally
 - Clarify and communicate
 - Address pointed out issues
- 
 ---
 ## Questions
 ## Terms
@@ -38,5 +37,4 @@ Always run your code and make sure it works before you create a PR. Make use of 
 [Better Code Review, Part Three](https://engineering.ziffmedia.com/better-code-review-part-3-4efb568885)
 [Frustration Free Code-Reviews](https://adavis.info/2018/09/frustration-free-code-reviews.html)
 ## Related
-[[Best Practices MOC\|Best Practices MOC]]
 [[20-29 Software Engineering/20 Personal Development/20.06 Personal Notes/On Empathy in Software Engineering\|On Empathy in Software Engineering]]
