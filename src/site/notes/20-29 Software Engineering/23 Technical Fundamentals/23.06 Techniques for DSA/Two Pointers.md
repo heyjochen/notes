@@ -1,19 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-software-engineering/23-technical-fundamentals/23-06-techniques-for-dsa/two-pointers/","tags":["code/javascript","code/dsa/technique"],"created":"2023-09-14T06:11:45.889-05:00","updated":"2023-10-04T07:51:45.102-05:00"}
+{"dg-publish":true,"permalink":"/20-29-software-engineering/23-technical-fundamentals/23-06-techniques-for-dsa/two-pointers/","tags":["code/javascript","code/dsa/technique"],"created":"2023-09-14T06:11:45.889-05:00","updated":"2023-11-06T07:37:47.332-06:00"}
 ---
 
 # Two Pointers
 Used with certain patterns revolving around arrays, often times sorted, or in combination with a sliding window. Also to check for a palindrome, or reversing.
-## Use Cases:
+**The idea here is to iterate two different parts of the array simultaneously to get the answer faster.**
+## Use Cases
 - Searching: Finding elements or patterns
 - Sorting: Rearranging elements in specific order
 - Sliding Window
-## Common Questions:
+## Common Questions
 - Two Sum
 - [[20-29 Software Engineering/23 Technical Fundamentals/23.03 Leetcode/167 Two Sum II\|167 Two Sum II]]
 - Three Sum
 - Sliding Window
-## Steps:
+## Steps
 - Init the pointers
 - Loop through the DS according to requirements
 - Update the pointers based on requirements
@@ -24,6 +25,9 @@ Used with certain patterns revolving around arrays, often times sorted, or in co
 We could BF it by looking at each element and compare it with the rest, but that would put our Big O into N². 
 ## How to get from O(N²) to O(N)?
 As we know that our input array is sorted we can introduce a L and R Pointer and use them to move through the array. If arr[L] + arr[R] > target then reduce R pointer, otherwise increase L pointer.
+
+## What is the difference between a Two Pointer and a Sliding Window approach?
+The Sliding Window approach cares about a subset of an array between Two Pointers, whereas the Two Pointers approach cares about the values at those pointers.
 ## What loop are we using?
 While loop as the two Pointers, L and R, move towards each other and.
 ```javascript
