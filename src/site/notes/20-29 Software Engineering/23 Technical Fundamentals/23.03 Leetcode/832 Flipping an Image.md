@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-software-engineering/23-technical-fundamentals/23-03-leetcode/832-flipping-an-image/","tags":["code/dsa/two_pointers"],"created":"2023-11-08T07:07:35.349-06:00","updated":"2023-11-08T07:10:36.353-06:00"}
+{"dg-publish":true,"permalink":"/20-29-software-engineering/23-technical-fundamentals/23-03-leetcode/832-flipping-an-image/","tags":["code/dsa/two_pointers"],"created":"2023-11-08T07:07:35.349-06:00","updated":"2023-11-08T07:10:50.591-06:00"}
 ---
 
 # 832 Flipping an Image
@@ -14,7 +14,7 @@ To invert an image means that each `0` is replaced by `1`, and each `1` is repla
 **Input:** image = [[1,1,0],[1,0,1],[0,0,0\|1,1,0],[1,0,1],[0,0,0]]
 **Output:** [[1,0,0],[0,1,0],[1,1,1\|1,0,0],[0,1,0],[1,1,1]]
 ## Approach
-Loop through the array, init two pointers, one at the beginning, one at the end, whiile loop through, swap position and invert via 1 -
+Loop through the array, init two pointers, one at the beginning, one at the end, while loop through, swap position and invert via 1 -
 ## Solution
 ```javascript
 var flipAndInvertImage = function(image) {
